@@ -8,6 +8,11 @@ A Mac... because I'm making this for one very specific person and they have a Ma
 
 ## Objectives
 
+- Text Editors
+    + Sublime Text
+    + Atom
+    + Brackets
+
 - Command line
     + Git
     + Brew
